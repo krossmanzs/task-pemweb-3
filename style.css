@@ -178,7 +178,7 @@ header > h1 {
     flex-direction: column;
   }
 
-  .content {
+  .content-description {
     padding: 0 2rem;
   }
 
@@ -242,7 +242,7 @@ header > h1 {
     flex-direction: column;
   }
 
-  .content {
+  .content-description {
     padding: 0 2rem;
   }
 
